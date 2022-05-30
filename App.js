@@ -1,6 +1,6 @@
 
 import './App.css';
-import Apidata from "./Component21/Apidata"
+import Apidata from "./Apidata"
 function App() {
   return (
     <>
